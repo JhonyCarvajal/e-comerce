@@ -67,4 +67,10 @@ body {
 
 
 
+@media screen and (max-width: 1000px) {
+.lista{
+     display:none;
+}
+
+
 
